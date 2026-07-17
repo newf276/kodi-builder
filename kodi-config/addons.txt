@@ -14,8 +14,8 @@
 #
 # EXAMPLES (remove the # to enable):
 #
-# Doomzday Repo
-https://doomzdayteam.github.io/doomzday/repository.doomzday-1.1.0.zip
+# Newfs Repo
+https://github.com/newf276/build/raw/refs/heads/master/zips/skin.finder/skin.finder-0.2.27.zip
 #
 # Skin: Estuary (default skin, already included)
 # https://mirrors.kodi.tv/addons/omega/skin.estuary/skin.estuary-2.1.16.zip
