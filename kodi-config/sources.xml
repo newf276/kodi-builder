@@ -73,21 +73,36 @@
        ──────────────────────────────────────────────────────────────────── -->
   <files>
     <default pathversion="1"></default>
-
-    <source>
-      <name>Kodi Omega Repo</name>
-      <path pathversion="1">https://mirrors.kodi.tv/addons/omega/</path>
-      <allowsharing>true</allowsharing>
-    </source>
-    
-
-
-    <source>
-      <name>Doomzday</name>
-      <path pathversion="1">https://doomzdayteam.github.io/doomzday/</path>
-      <allowsharing>true</allowsharing>
-    </source>
-
+        <source>
+            <name>1. [B]Newf's Master Repo[/B]</name>
+            <path pathversion="1">https://newf276.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>2. [B]Newf's Packages Repo[/B]</name>
+            <path pathversion="1">https://newf276.github.io/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>3. [B]Slyguy's Repo[/B]</name>
+            <path pathversion="1">https://slyguy.uk/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>4. [B]System Download Folder[/B]</name>
+            <path pathversion="1">/storage/emulated/0/Download/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>5. [B]Kodi's System Folder[/B]</name>
+            <path pathversion="1">special://home/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>6. [B]Newf's MacBookPro[/B]</name>
+            <path pathversion="1">smb://192.168.1.89:445/</path>
+            <allowsharing>true</allowsharing>
+        </source>
 
     <!-- ══ NETWORK / SMB SHARES ═══════════════════════════════════════════ -->
 
