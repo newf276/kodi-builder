@@ -89,7 +89,7 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>4. [B]System Download Folder[/B]</name>
+            <name>4. [B]Android Download Folder[/B]</name>
             <path pathversion="1">/storage/emulated/0/Download/</path>
             <allowsharing>true</allowsharing>
         </source>
