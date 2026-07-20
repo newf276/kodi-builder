@@ -20,8 +20,8 @@ https://github.com/newf276/newf276.github.io/raw/refs/heads/master/repository.ne
 # Skin: Estuary (default skin, already included)
 # https://mirrors.kodi.tv/addons/omega/skin.estuary/skin.estuary-2.1.16.zip
 #
-# Skin: Aeon Nox
-# https://mirrors.kodi.tv/addons/omega/skin.aeon.nox.silvo/skin.aeon.nox.silvo-5.10.9.zip
+# Wizard: Newfs Wizard
+https://github.com/newf276/build/raw/refs/heads/master/zips/plugin.program.cleaner/plugin.program.cleaner-0.0.29.zip
 #
 # Skin shortcuts helper
 # https://mirrors.kodi.tv/addons/omega/script.skinshortcuts/script.skinshortcuts-1.0.23.zip
