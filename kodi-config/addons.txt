@@ -15,7 +15,7 @@
 # EXAMPLES (remove the # to enable):
 #
 # Newfs Repo
-https://github.com/newf276/build/raw/refs/heads/master/zips/skin.finder/skin.finder-0.2.27.zip
+https://github.com/newf276/newf276.github.io/raw/refs/heads/master/repository.newf-0.0.29.zip
 #
 # Skin: Estuary (default skin, already included)
 # https://mirrors.kodi.tv/addons/omega/skin.estuary/skin.estuary-2.1.16.zip
